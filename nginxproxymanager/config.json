@@ -21,13 +21,13 @@
     "80/tcp": 80,
     "81/tcp": 81,
     "443/tcp": 443,
-    "7446/tcp": 7446
+    "7443/tcp": 7443
   },
   "ports_description": {
     "80/tcp": "HTTP Entrance port",
     "81/tcp": "Proxy management web interface",
     "443/tcp": "HTTPS/SSL Entrance port",
-    "7446/tcp": "Unifi Video WSS"
+    "7443/tcp": "Unifi Video WSS"
   },
   "map": [
     "ssl:rw",
